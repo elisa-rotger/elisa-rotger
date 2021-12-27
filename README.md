@@ -2,8 +2,8 @@
   <strong>Hi there! 👋 I'm Elisa Rotger 🐤 </strong> <br />
   <br />
   I'm a <stong> Full Stack Developer </strong> with a background on chemistry and mechanics. <br />
-  I graduated from a FS Development <strong> Bootcamp </strong> at the end of 2021 with <strong> CodeOp</strong>. <br />
-  From <strong> Menorca </strong>, currently living in <strong> Barcelona</strong>. <br />
+  I graduated from a FS Development <strong> Bootcamp </strong> at the end of 2021 with <strong> <a href="https://codeop.tech/">CodeOp</a></strong>. <br />
+  From <strong> Menorca</strong>, currently living in <strong> Barcelona</strong>. <br />
   <br />
   <strong> Read more about me! 👇 </strong>
 </p>
