@@ -1,8 +1,10 @@
 <p align="center">
-  <strong>Hi there! 👋 I'm Elisa Rotger 🐤 </strong> <br />
+  <strong>Hi there! 👋 I'm Elisa 🐤 </strong> <br />
   <br />
-  I'm a <stong> Full Stack Developer </strong> with a background on chemistry and mechanics. <br />
+  I'm a <stong> Front End Developer </strong> with a background on chemistry, mechanics and poker dealing. <br />
   I graduated from a FS Development <strong> Bootcamp </strong> at the end of 2021 with <strong> <a href="https://codeop.tech/">CodeOp</a></strong>. <br />
+  I spent 9 months as a FS Developer working with Angular, NodeJS and PostgreSQL in <strong><a href="https://apfutura.com/">APFutura</a></strong>.
+  I'm currently working as a Front End Developer in <strong><a href="https://weareadaptive.com/">Adaptive Financial Consulting</a></strong>.
   From <strong> Menorca</strong>, currently living in <strong> Barcelona</strong>. <br />
   <br />
   <strong> Read more about me! 👇 </strong>
