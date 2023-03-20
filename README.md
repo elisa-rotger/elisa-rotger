@@ -1,9 +1,9 @@
 <p align="center">
   <strong>Hi there! 👋 I'm Elisa 🐤 </strong> <br />
   <br />
-  I'm a <stong> Full Stack Developer </strong> with a background on chemistry and mechanics. <br />
+  I'm a <stong> FrontEnd Developer </strong> with a background on chemistry and mechanics. <br />
   I graduated from a FS Development <strong> Bootcamp </strong> at the end of 2021 with <strong> <a href="https://codeop.tech/">CodeOp</a></strong>. <br />
-  Currently working as a Frontend Developer at <strong><a href="https://weareadaptive.com/">Adaptive Financial Consulting</a></strong>. <br />
+  Currently working as a UI Developer at <strong><a href="https://weareadaptive.com/">Adaptive Financial Consulting</a></strong>. <br />
   From <strong> Menorca</strong>, living in <strong> Barcelona</strong>. <br />
   <br />
   <strong> Read more about me! 👇 </strong>
