@@ -1,9 +1,9 @@
 <p align="center">
   <strong>Hi there! 👋 I'm Elisa 🐤 </strong> <br />
   <br />
-  I'm a <stong> FrontEnd Developer </strong> with a background on chemistry and mechanics. <br />
+  I'm a <stong> FullStack Developer </strong> with a background on chemistry and mechanics. <br />
   I graduated from a FS Development <strong> Bootcamp </strong> at the end of 2021 with <strong> <a href="https://codeop.tech/">CodeOp</a></strong>. <br />
-  Currently working as a UI Developer at <strong><a href="https://weareadaptive.com/">Adaptive Financial Consulting</a></strong>. <br />
+  Currently working as a BE Developer at <strong><a href="https://weareadaptive.com/">Adaptive Financial Consulting</a></strong>. <br />
   From <strong> Menorca</strong>, living in <strong> Barcelona</strong>. <br />
   <br />
   <strong> Read more about me! 👇 </strong>
@@ -13,6 +13,7 @@
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -31,7 +32,6 @@
 
 ## 📖 Learning
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" >
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
